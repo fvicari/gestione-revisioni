@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Správa revízií"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Nastavenia správy revízií"
+
+msgid "Impostazioni"
+msgstr "Nastavenia"
+
+msgid "Impostazioni salvate."
+msgstr "Nastavenia uložené."
+
+msgid "Post per pagina"
+msgstr "Príspevky na stránku"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maximálny počet revízií"
+
+msgid "Permessi di accesso"
+msgstr "Prístupové oprávnenia"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Podržte klávesu CTRL (Windows) alebo CMD (Mac) a vyberte viac rolí."
+
+msgid "Salva Impostazioni"
+msgstr "Uložiť nastavenia"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revízie úspešne spravované."
+
+msgid "Cerca per titolo o ID"
+msgstr "Hľadať podľa názvu alebo ID"
+
+msgid "Cerca"
+msgstr "Hľadať"
+
+msgid "Titolo"
+msgstr "Názov"
+
+msgid "Revisioni"
+msgstr "Revízie"
+
+msgid "Dettaglio"
+msgstr "Detail"
+
+msgid "Ultima Revisione"
+msgstr "Posledná revízia"
+
+msgid "Azioni"
+msgstr "Akcie"
+
+msgid "Modifica"
+msgstr "Upraviť"
+
+msgid "Nessuna revisione presente."
+msgstr "Nie sú prítomné žiadne revízie."
+
+msgid "Azioni di gruppo"
+msgstr "Hromadné akcie"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Odstrániť všetky revízie"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Odstrániť všetky okrem poslednej revízie"
+
+msgid "Applica"
+msgstr "Použiť"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Neboli nájdené žiadne príspevky s revíziami."
+
+msgid "« Precedente"
+msgstr "« Predchádzajúci"
+
+msgid "Successivo »"
+msgstr "Nasledujúci »"
+
+msgid "Post ID"
+msgstr "ID príspevku"
+
+msgid "Data Revisione"
+msgstr "Dátum revízie"
+
+msgid "Ora Revisione"
+msgstr "Čas revízie"
+
+msgid "Autore Revisione"
+msgstr "Autor revízie"

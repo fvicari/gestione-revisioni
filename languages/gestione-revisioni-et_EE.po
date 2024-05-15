@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Estonian\n"
+"Language: et_EE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Revisjonide haldamine"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Revisjonihalduse seaded"
+
+msgid "Impostazioni"
+msgstr "Seaded"
+
+msgid "Impostazioni salvate."
+msgstr "Seaded salvestatud."
+
+msgid "Post per pagina"
+msgstr "Postitusi lehe kohta"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maksimaalne revisjonide arv"
+
+msgid "Permessi di accesso"
+msgstr "Juurdepääsuõigused"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Mitme rolli valimiseks hoidke all klahvi CTRL (Windows) või CMD (Mac)."
+
+msgid "Salva Impostazioni"
+msgstr "Salvesta seaded"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisjonid on edukalt hallatud."
+
+msgid "Cerca per titolo o ID"
+msgstr "Otsi pealkirja või ID järgi"
+
+msgid "Cerca"
+msgstr "Otsi"
+
+msgid "Titolo"
+msgstr "Pealkiri"
+
+msgid "Revisioni"
+msgstr "Revisjonid"
+
+msgid "Dettaglio"
+msgstr "Detailid"
+
+msgid "Ultima Revisione"
+msgstr "Viimane revisjon"
+
+msgid "Azioni"
+msgstr "Toimingud"
+
+msgid "Modifica"
+msgstr "Muuda"
+
+msgid "Nessuna revisione presente."
+msgstr "Revisjone ei ole."
+
+msgid "Azioni di gruppo"
+msgstr "Grupitoimingud"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Kustuta kõik revisjonid"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Kustuta kõik peale viimase revisjoni"
+
+msgid "Applica"
+msgstr "Rakenda"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Revisjonidega postitusi ei leitud."
+
+msgid "« Precedente"
+msgstr "« Eelmine"
+
+msgid "Successivo »"
+msgstr "Järgmine »"
+
+msgid "Post ID"
+msgstr "Postituse ID"
+
+msgid "Data Revisione"
+msgstr "Revisjoni kuupäev"
+
+msgid "Ora Revisione"
+msgstr "Revisjoni aeg"
+
+msgid "Autore Revisione"
+msgstr "Revisjoni autor"

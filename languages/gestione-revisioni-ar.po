@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "إدارة المراجعات"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "إعدادات إدارة المراجعات"
+
+msgid "Impostazioni"
+msgstr "إعدادات"
+
+msgid "Impostazioni salvate."
+msgstr "تم حفظ الإعدادات."
+
+msgid "Post per pagina"
+msgstr "منشورات لكل صفحة"
+
+msgid "Numero massimo di revisioni"
+msgstr "الحد الأقصى لعدد المراجعات"
+
+msgid "Permessi di accesso"
+msgstr "أذونات الوصول"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "اضغط مع الاستمرار على مفتاح CTRL (Windows) أو CMD (Mac) لتحديد أدوار متعددة."
+
+msgid "Salva Impostazioni"
+msgstr "حفظ الإعدادات"
+
+msgid "Revisioni gestite con successo."
+msgstr "تمت إدارة المراجعات بنجاح."
+
+msgid "Cerca per titolo o ID"
+msgstr "ابحث حسب العنوان أو المعرف"
+
+msgid "Cerca"
+msgstr "بحث"
+
+msgid "Titolo"
+msgstr "العنوان"
+
+msgid "Revisioni"
+msgstr "المراجعات"
+
+msgid "Dettaglio"
+msgstr "التفاصيل"
+
+msgid "Ultima Revisione"
+msgstr "آخر مراجعة"
+
+msgid "Azioni"
+msgstr "الإجراءات"
+
+msgid "Modifica"
+msgstr "تعديل"
+
+msgid "Nessuna revisione presente."
+msgstr "لا توجد مراجعات."
+
+msgid "Azioni di gruppo"
+msgstr "إجراءات جماعية"
+
+msgid "Elimina tutte le revisioni"
+msgstr "حذف جميع المراجعات"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "حذف جميع المراجعات باستثناء الأخيرة"
+
+msgid "Applica"
+msgstr "تطبيق"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "لم يتم العثور على منشورات تحتوي على مراجعات."
+
+msgid "« Precedente"
+msgstr "« السابق"
+
+msgid "Successivo »"
+msgstr "التالي »"
+
+msgid "Post ID"
+msgstr "معرف المنشور"
+
+msgid "Data Revisione"
+msgstr "تاريخ المراجعة"
+
+msgid "Ora Revisione"
+msgstr "وقت المراجعة"
+
+msgid "Autore Revisione"
+msgstr "مؤلف المراجعة"

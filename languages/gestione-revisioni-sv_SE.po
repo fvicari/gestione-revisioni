@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Revisionshantering"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Inställningar för revisionshantering"
+
+msgid "Impostazioni"
+msgstr "Inställningar"
+
+msgid "Impostazioni salvate."
+msgstr "Inställningar sparade."
+
+msgid "Post per pagina"
+msgstr "Inlägg per sida"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maximalt antal revisioner"
+
+msgid "Permessi di accesso"
+msgstr "Åtkomstbehörigheter"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Håll ned CTRL (Windows) eller CMD (Mac) för att välja flera roller."
+
+msgid "Salva Impostazioni"
+msgstr "Spara inställningar"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisioner hanterade framgångsrikt."
+
+msgid "Cerca per titolo o ID"
+msgstr "Sök efter titel eller ID"
+
+msgid "Cerca"
+msgstr "Sök"
+
+msgid "Titolo"
+msgstr "Titel"
+
+msgid "Revisioni"
+msgstr "Revisioner"
+
+msgid "Dettaglio"
+msgstr "Detalj"
+
+msgid "Ultima Revisione"
+msgstr "Senaste revision"
+
+msgid "Azioni"
+msgstr "Åtgärder"
+
+msgid "Modifica"
+msgstr "Redigera"
+
+msgid "Nessuna revisione presente."
+msgstr "Inga revisioner närvarande."
+
+msgid "Azioni di gruppo"
+msgstr "Gruppåtgärder"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Radera alla revisioner"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Radera alla förutom den senaste revisionen"
+
+msgid "Applica"
+msgstr "Tillämpa"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Inga inlägg med revisioner hittades."
+
+msgid "« Precedente"
+msgstr "« Föregående"
+
+msgid "Successivo »"
+msgstr "Nästa »"
+
+msgid "Post ID"
+msgstr "Inlägg ID"
+
+msgid "Data Revisione"
+msgstr "Revisionsdatum"
+
+msgid "Ora Revisione"
+msgstr "Revisions tid"
+
+msgid "Autore Revisione"
+msgstr "Revisionsförfattare"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Zarządzanie rewizjami"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Ustawienia zarządzania rewizjami"
+
+msgid "Impostazioni"
+msgstr "Ustawienia"
+
+msgid "Impostazioni salvate."
+msgstr "Ustawienia zapisane."
+
+msgid "Post per pagina"
+msgstr "Posty na stronę"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maksymalna liczba rewizji"
+
+msgid "Permessi di accesso"
+msgstr "Uprawnienia dostępu"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Przytrzymaj klawisz CTRL (Windows) lub CMD (Mac), aby wybrać wiele ról."
+
+msgid "Salva Impostazioni"
+msgstr "Zapisz ustawienia"
+
+msgid "Revisioni gestite con successo."
+msgstr "Rewizje zarządzane pomyślnie."
+
+msgid "Cerca per titolo o ID"
+msgstr "Szukaj według tytułu lub ID"
+
+msgid "Cerca"
+msgstr "Szukaj"
+
+msgid "Titolo"
+msgstr "Tytuł"
+
+msgid "Revisioni"
+msgstr "Rewizje"
+
+msgid "Dettaglio"
+msgstr "Szczegóły"
+
+msgid "Ultima Revisione"
+msgstr "Ostatnia rewizja"
+
+msgid "Azioni"
+msgstr "Akcje"
+
+msgid "Modifica"
+msgstr "Edytuj"
+
+msgid "Nessuna revisione presente."
+msgstr "Brak rewizji."
+
+msgid "Azioni di gruppo"
+msgstr "Działania grupowe"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Usuń wszystkie rewizje"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Usuń wszystkie rewizje oprócz ostatniej"
+
+msgid "Applica"
+msgstr "Zastosuj"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Nie znaleziono postów z rewizjami."
+
+msgid "« Precedente"
+msgstr "« Poprzedni"
+
+msgid "Successivo »"
+msgstr "Następny »"
+
+msgid "Post ID"
+msgstr "ID postu"
+
+msgid "Data Revisione"
+msgstr "Data rewizji"
+
+msgid "Ora Revisione"
+msgstr "Godzina rewizji"
+
+msgid "Autore Revisione"
+msgstr "Autor rewizji"

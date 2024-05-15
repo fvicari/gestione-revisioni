@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "リビジョン管理"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "リビジョン管理の設定"
+
+msgid "Impostazioni"
+msgstr "設定"
+
+msgid "Impostazioni salvate."
+msgstr "設定が保存されました。"
+
+msgid "Post per pagina"
+msgstr "ページごとの投稿"
+
+msgid "Numero massimo di revisioni"
+msgstr "最大リビジョン数"
+
+msgid "Permessi di accesso"
+msgstr "アクセス権限"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "複数のロールを選択するには、CTRL (Windows) または CMD (Mac) キーを押し続けます。"
+
+msgid "Salva Impostazioni"
+msgstr "設定を保存"
+
+msgid "Revisioni gestite con successo."
+msgstr "リビジョンが正常に管理されました。"
+
+msgid "Cerca per titolo o ID"
+msgstr "タイトルまたはIDで検索"
+
+msgid "Cerca"
+msgstr "検索"
+
+msgid "Titolo"
+msgstr "タイトル"
+
+msgid "Revisioni"
+msgstr "リビジョン"
+
+msgid "Dettaglio"
+msgstr "詳細"
+
+msgid "Ultima Revisione"
+msgstr "最後のリビジョン"
+
+msgid "Azioni"
+msgstr "アクション"
+
+msgid "Modifica"
+msgstr "編集"
+
+msgid "Nessuna revisione presente."
+msgstr "リビジョンがありません。"
+
+msgid "Azioni di gruppo"
+msgstr "グループアクション"
+
+msgid "Elimina tutte le revisioni"
+msgstr "すべてのリビジョンを削除"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "最後のリビジョンを除くすべてを削除"
+
+msgid "Applica"
+msgstr "適用"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "リビジョンのある投稿が見つかりません。"
+
+msgid "« Precedente"
+msgstr "« 前"
+
+msgid "Successivo »"
+msgstr "次 »"
+
+msgid "Post ID"
+msgstr "投稿ID"
+
+msgid "Data Revisione"
+msgstr "リビジョンの日付"
+
+msgid "Ora Revisione"
+msgstr "リビジョンの時間"
+
+msgid "Autore Revisione"
+msgstr "リビジョンの著者"

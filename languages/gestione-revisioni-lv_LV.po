@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Latvian\n"
+"Language: lv_LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Pārskatīšanas vadība"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Pārskatīšanas vadības iestatījumi"
+
+msgid "Impostazioni"
+msgstr "Iestatījumi"
+
+msgid "Impostazioni salvate."
+msgstr "Iestatījumi saglabāti."
+
+msgid "Post per pagina"
+msgstr "Ziņas uz lapu"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maksimālais pārskatījumu skaits"
+
+msgid "Permessi di accesso"
+msgstr "Piekļuves atļaujas"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Turiet nospiestu CTRL (Windows) vai CMD (Mac), lai atlasītu vairākas lomas."
+
+msgid "Salva Impostazioni"
+msgstr "Saglabāt iestatījumus"
+
+msgid "Revisioni gestite con successo."
+msgstr "Pārskatījumi veiksmīgi pārvaldīti."
+
+msgid "Cerca per titolo o ID"
+msgstr "Meklēt pēc nosaukuma vai ID"
+
+msgid "Cerca"
+msgstr "Meklēt"
+
+msgid "Titolo"
+msgstr "Nosaukums"
+
+msgid "Revisioni"
+msgstr "Pārskatījumi"
+
+msgid "Dettaglio"
+msgstr "Sīkāka informācija"
+
+msgid "Ultima Revisione"
+msgstr "Pēdējais pārskatījums"
+
+msgid "Azioni"
+msgstr "Darbības"
+
+msgid "Modifica"
+msgstr "Rediģēt"
+
+msgid "Nessuna revisione presente."
+msgstr "Nav pārskatījumu."
+
+msgid "Azioni di gruppo"
+msgstr "Grupu darbības"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Dzēst visus pārskatījumus"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Dzēst visus izņemot pēdējo pārskatījumu"
+
+msgid "Applica"
+msgstr "Lietot"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Netika atrastas ziņas ar pārskatījumiem."
+
+msgid "« Precedente"
+msgstr "« Iepriekšējais"
+
+msgid "Successivo »"
+msgstr "Nākamais »"
+
+msgid "Post ID"
+msgstr "Ziņas ID"
+
+msgid "Data Revisione"
+msgstr "Pārskatījuma datums"
+
+msgid "Ora Revisione"
+msgstr "Pārskatījuma laiks"
+
+msgid "Autore Revisione"
+msgstr "Pārskatījuma autors"

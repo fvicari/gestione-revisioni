@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "리비전 관리"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "리비전 관리 설정"
+
+msgid "Impostazioni"
+msgstr "설정"
+
+msgid "Impostazioni salvate."
+msgstr "설정이 저장되었습니다."
+
+msgid "Post per pagina"
+msgstr "페이지당 게시물 수"
+
+msgid "Numero massimo di revisioni"
+msgstr "최대 리비전 수"
+
+msgid "Permessi di accesso"
+msgstr "접근 권한"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "여러 역할을 선택하려면 CTRL (Windows) 또는 CMD (Mac) 키를 누르고 계십시오."
+
+msgid "Salva Impostazioni"
+msgstr "설정 저장"
+
+msgid "Revisioni gestite con successo."
+msgstr "리비전이 성공적으로 관리되었습니다."
+
+msgid "Cerca per titolo o ID"
+msgstr "제목 또는 ID로 검색"
+
+msgid "Cerca"
+msgstr "검색"
+
+msgid "Titolo"
+msgstr "제목"
+
+msgid "Revisioni"
+msgstr "리비전"
+
+msgid "Dettaglio"
+msgstr "세부사항"
+
+msgid "Ultima Revisione"
+msgstr "마지막 리비전"
+
+msgid "Azioni"
+msgstr "작업"
+
+msgid "Modifica"
+msgstr "편집"
+
+msgid "Nessuna revisione presente."
+msgstr "리비전이 없습니다."
+
+msgid "Azioni di gruppo"
+msgstr "그룹 작업"
+
+msgid "Elimina tutte le revisioni"
+msgstr "모든 리비전 삭제"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "마지막 리비전을 제외한 모든 리비전 삭제"
+
+msgid "Applica"
+msgstr "적용"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "리비전이 있는 게시물을 찾을 수 없습니다."
+
+msgid "« Precedente"
+msgstr "« 이전"
+
+msgid "Successivo »"
+msgstr "다음 »"
+
+msgid "Post ID"
+msgstr "게시물 ID"
+
+msgid "Data Revisione"
+msgstr "리비전 날짜"
+
+msgid "Ora Revisione"
+msgstr "리비전 시간"
+
+msgid "Autore Revisione"
+msgstr "리비전 작성자"

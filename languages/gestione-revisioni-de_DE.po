@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Revisionsverwaltung"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Einstellungen zur Revisionsverwaltung"
+
+msgid "Impostazioni"
+msgstr "Einstellungen"
+
+msgid "Impostazioni salvate."
+msgstr "Einstellungen gespeichert."
+
+msgid "Post per pagina"
+msgstr "Beiträge pro Seite"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maximale Anzahl von Revisionen"
+
+msgid "Permessi di accesso"
+msgstr "Zugriffsrechte"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Halten Sie die STRG-Taste (Windows) oder CMD-Taste (Mac) gedrückt, um mehrere Rollen auszuwählen."
+
+msgid "Salva Impostazioni"
+msgstr "Einstellungen speichern"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisionen erfolgreich verwaltet."
+
+msgid "Cerca per titolo o ID"
+msgstr "Nach Titel oder ID suchen"
+
+msgid "Cerca"
+msgstr "Suchen"
+
+msgid "Titolo"
+msgstr "Titel"
+
+msgid "Revisioni"
+msgstr "Revisionen"
+
+msgid "Dettaglio"
+msgstr "Detail"
+
+msgid "Ultima Revisione"
+msgstr "Letzte Revision"
+
+msgid "Azioni"
+msgstr "Aktionen"
+
+msgid "Modifica"
+msgstr "Bearbeiten"
+
+msgid "Nessuna revisione presente."
+msgstr "Keine Revisionen vorhanden."
+
+msgid "Azioni di gruppo"
+msgstr "Gruppenaktionen"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Alle Revisionen löschen"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Alle bis auf die letzte Revision löschen"
+
+msgid "Applica"
+msgstr "Anwenden"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Keine Beiträge mit Revisionen gefunden."
+
+msgid "« Precedente"
+msgstr "« Vorherige"
+
+msgid "Successivo »"
+msgstr "Nächste »"
+
+msgid "Post ID"
+msgstr "Beitrags-ID"
+
+msgid "Data Revisione"
+msgstr "Revisionsdatum"
+
+msgid "Ora Revisione"
+msgstr "Revisionszeit"
+
+msgid "Autore Revisione"
+msgstr "Revisionsautor"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Manajemen Revisi"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Pengaturan Manajemen Revisi"
+
+msgid "Impostazioni"
+msgstr "Pengaturan"
+
+msgid "Impostazioni salvate."
+msgstr "Pengaturan disimpan."
+
+msgid "Post per pagina"
+msgstr "Postingan per halaman"
+
+msgid "Numero massimo di revisioni"
+msgstr "Jumlah maksimal revisi"
+
+msgid "Permessi di accesso"
+msgstr "Izin akses"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Tahan tombol CTRL (Windows) atau CMD (Mac) untuk memilih beberapa peran."
+
+msgid "Salva Impostazioni"
+msgstr "Simpan Pengaturan"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisi berhasil dikelola."
+
+msgid "Cerca per titolo o ID"
+msgstr "Cari berdasarkan judul atau ID"
+
+msgid "Cerca"
+msgstr "Cari"
+
+msgid "Titolo"
+msgstr "Judul"
+
+msgid "Revisioni"
+msgstr "Revisi"
+
+msgid "Dettaglio"
+msgstr "Detail"
+
+msgid "Ultima Revisione"
+msgstr "Revisi Terakhir"
+
+msgid "Azioni"
+msgstr "Tindakan"
+
+msgid "Modifica"
+msgstr "Edit"
+
+msgid "Nessuna revisione presente."
+msgstr "Tidak ada revisi yang ada."
+
+msgid "Azioni di gruppo"
+msgstr "Tindakan Kelompok"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Hapus semua revisi"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Hapus semua kecuali revisi terakhir"
+
+msgid "Applica"
+msgstr "Terapkan"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Tidak ada postingan yang ditemukan dengan revisi."
+
+msgid "« Precedente"
+msgstr "« Sebelumnya"
+
+msgid "Successivo »"
+msgstr "Berikutnya »"
+
+msgid "Post ID"
+msgstr "ID Postingan"
+
+msgid "Data Revisione"
+msgstr "Tanggal Revisi"
+
+msgid "Ora Revisione"
+msgstr "Waktu Revisi"
+
+msgid "Autore Revisione"
+msgstr "Penulis Revisi"

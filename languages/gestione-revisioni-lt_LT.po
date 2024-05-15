@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Peržiūrų valdymas"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Peržiūrų valdymo nustatymai"
+
+msgid "Impostazioni"
+msgstr "Nustatymai"
+
+msgid "Impostazioni salvate."
+msgstr "Nustatymai išsaugoti."
+
+msgid "Post per pagina"
+msgstr "Įrašai per puslapį"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maksimalus peržiūrų skaičius"
+
+msgid "Permessi di accesso"
+msgstr "Prieigos teisės"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Norėdami pasirinkti kelis vaidmenis, laikykite nuspaudę CTRL (Windows) arba CMD (Mac)."
+
+msgid "Salva Impostazioni"
+msgstr "Išsaugoti nustatymus"
+
+msgid "Revisioni gestite con successo."
+msgstr "Peržiūros sėkmingai suvaldytos."
+
+msgid "Cerca per titolo o ID"
+msgstr "Ieškoti pagal pavadinimą ar ID"
+
+msgid "Cerca"
+msgstr "Ieškoti"
+
+msgid "Titolo"
+msgstr "Pavadinimas"
+
+msgid "Revisioni"
+msgstr "Peržiūros"
+
+msgid "Dettaglio"
+msgstr "Išsamiau"
+
+msgid "Ultima Revisione"
+msgstr "Paskutinė peržiūra"
+
+msgid "Azioni"
+msgstr "Veiksmai"
+
+msgid "Modifica"
+msgstr "Redaguoti"
+
+msgid "Nessuna revisione presente."
+msgstr "Nėra peržiūrų."
+
+msgid "Azioni di gruppo"
+msgstr "Grupės veiksmai"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Ištrinti visas peržiūras"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Ištrinti visas išskyrus paskutinę peržiūrą"
+
+msgid "Applica"
+msgstr "Taikyti"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Nerasta įrašų su peržiūromis."
+
+msgid "« Precedente"
+msgstr "« Ankstesnis"
+
+msgid "Successivo »"
+msgstr "Kitas »"
+
+msgid "Post ID"
+msgstr "Įrašo ID"
+
+msgid "Data Revisione"
+msgstr "Peržiūros data"
+
+msgid "Ora Revisione"
+msgstr "Peržiūros laikas"
+
+msgid "Autore Revisione"
+msgstr "Peržiūros autorius"

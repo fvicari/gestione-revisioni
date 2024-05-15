@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: British English\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Revision Management"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Revision Management Settings"
+
+msgid "Impostazioni"
+msgstr "Settings"
+
+msgid "Impostazioni salvate."
+msgstr "Settings saved."
+
+msgid "Post per pagina"
+msgstr "Posts per page"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maximum number of revisions"
+
+msgid "Permessi di accesso"
+msgstr "Access permissions"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Hold the CTRL (Windows) or CMD (Mac) key to select multiple roles."
+
+msgid "Salva Impostazioni"
+msgstr "Save Settings"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisions successfully managed."
+
+msgid "Cerca per titolo o ID"
+msgstr "Search by title or ID"
+
+msgid "Cerca"
+msgstr "Search"
+
+msgid "Titolo"
+msgstr "Title"
+
+msgid "Revisioni"
+msgstr "Revisions"
+
+msgid "Dettaglio"
+msgstr "Detail"
+
+msgid "Ultima Revisione"
+msgstr "Last Revision"
+
+msgid "Azioni"
+msgstr "Actions"
+
+msgid "Modifica"
+msgstr "Edit"
+
+msgid "Nessuna revisione presente."
+msgstr "No revisions present."
+
+msgid "Azioni di gruppo"
+msgstr "Bulk actions"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Delete all revisions"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Delete all but the last revision"
+
+msgid "Applica"
+msgstr "Apply"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "No posts found with revisions."
+
+msgid "« Precedente"
+msgstr "« Previous"
+
+msgid "Successivo »"
+msgstr "Next »"
+
+msgid "Post ID"
+msgstr "Post ID"
+
+msgid "Data Revisione"
+msgstr "Revision Date"
+
+msgid "Ora Revisione"
+msgstr "Revision Time"
+
+msgid "Autore Revisione"
+msgstr "Revision Author"

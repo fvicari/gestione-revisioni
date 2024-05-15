@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Gestionarea reviziilor"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Setări de gestionare a reviziilor"
+
+msgid "Impostazioni"
+msgstr "Setări"
+
+msgid "Impostazioni salvate."
+msgstr "Setări salvate."
+
+msgid "Post per pagina"
+msgstr "Postări pe pagină"
+
+msgid "Numero massimo di revisioni"
+msgstr "Numărul maxim de revizii"
+
+msgid "Permessi di accesso"
+msgstr "Permisiuni de acces"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Țineți apăsată tasta CTRL (Windows) sau CMD (Mac) pentru a selecta mai multe roluri."
+
+msgid "Salva Impostazioni"
+msgstr "Salvați setările"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revizii gestionate cu succes."
+
+msgid "Cerca per titolo o ID"
+msgstr "Căutați după titlu sau ID"
+
+msgid "Cerca"
+msgstr "Căutați"
+
+msgid "Titolo"
+msgstr "Titlu"
+
+msgid "Revisioni"
+msgstr "Revizii"
+
+msgid "Dettaglio"
+msgstr "Detaliu"
+
+msgid "Ultima Revisione"
+msgstr "Ultima revizie"
+
+msgid "Azioni"
+msgstr "Acțiuni"
+
+msgid "Modifica"
+msgstr "Editați"
+
+msgid "Nessuna revisione presente."
+msgstr "Nu există revizii prezente."
+
+msgid "Azioni di gruppo"
+msgstr "Acțiuni de grup"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Ștergeți toate reviziile"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Ștergeți toate reviziile, cu excepția ultimei"
+
+msgid "Applica"
+msgstr "Aplicați"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Nu s-au găsit postări cu revizii."
+
+msgid "« Precedente"
+msgstr "« Anterior"
+
+msgid "Successivo »"
+msgstr "Următor »"
+
+msgid "Post ID"
+msgstr "ID postare"
+
+msgid "Data Revisione"
+msgstr "Data reviziei"
+
+msgid "Ora Revisione"
+msgstr "Ora reviziei"
+
+msgid "Autore Revisione"
+msgstr "Autorul reviziei"

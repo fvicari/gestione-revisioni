@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Управление ревизиями"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Настройки управления ревизиями"
+
+msgid "Impostazioni"
+msgstr "Настройки"
+
+msgid "Impostazioni salvate."
+msgstr "Настройки сохранены."
+
+msgid "Post per pagina"
+msgstr "Посты на странице"
+
+msgid "Numero massimo di revisioni"
+msgstr "Максимальное количество ревизий"
+
+msgid "Permessi di accesso"
+msgstr "Права доступа"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Удерживайте клавишу CTRL (Windows) или CMD (Mac), чтобы выбрать несколько ролей."
+
+msgid "Salva Impostazioni"
+msgstr "Сохранить настройки"
+
+msgid "Revisioni gestite con successo."
+msgstr "Ревизии успешно управлены."
+
+msgid "Cerca per titolo o ID"
+msgstr "Поиск по названию или ID"
+
+msgid "Cerca"
+msgstr "Поиск"
+
+msgid "Titolo"
+msgstr "Название"
+
+msgid "Revisioni"
+msgstr "Ревизии"
+
+msgid "Dettaglio"
+msgstr "Деталь"
+
+msgid "Ultima Revisione"
+msgstr "Последняя ревизия"
+
+msgid "Azioni"
+msgstr "Действия"
+
+msgid "Modifica"
+msgstr "Редактировать"
+
+msgid "Nessuna revisione presente."
+msgstr "Ревизий нет."
+
+msgid "Azioni di gruppo"
+msgstr "Групповые действия"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Удалить все ревизии"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Удалить все, кроме последней ревизии"
+
+msgid "Applica"
+msgstr "Применить"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Постов с ревизиями не найдено."
+
+msgid "« Precedente"
+msgstr "« Предыдущий"
+
+msgid "Successivo »"
+msgstr "Следующий »"
+
+msgid "Post ID"
+msgstr "ID поста"
+
+msgid "Data Revisione"
+msgstr "Дата ревизии"
+
+msgid "Ora Revisione"
+msgstr "Время ревизии"
+
+msgid "Autore Revisione"
+msgstr "Автор ревизии"

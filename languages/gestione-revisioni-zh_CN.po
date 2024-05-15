@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "修订管理"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "修订管理设置"
+
+msgid "Impostazioni"
+msgstr "设置"
+
+msgid "Impostazioni salvate."
+msgstr "设置已保存。"
+
+msgid "Post per pagina"
+msgstr "每页帖子数"
+
+msgid "Numero massimo di revisioni"
+msgstr "最大修订数"
+
+msgid "Permessi di accesso"
+msgstr "访问权限"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "按住 CTRL (Windows) 或 CMD (Mac) 键以选择多个角色。"
+
+msgid "Salva Impostazioni"
+msgstr "保存设置"
+
+msgid "Revisioni gestite con successo."
+msgstr "修订管理成功。"
+
+msgid "Cerca per titolo o ID"
+msgstr "按标题或 ID 搜索"
+
+msgid "Cerca"
+msgstr "搜索"
+
+msgid "Titolo"
+msgstr "标题"
+
+msgid "Revisioni"
+msgstr "修订"
+
+msgid "Dettaglio"
+msgstr "详情"
+
+msgid "Ultima Revisione"
+msgstr "最后修订"
+
+msgid "Azioni"
+msgstr "操作"
+
+msgid "Modifica"
+msgstr "编辑"
+
+msgid "Nessuna revisione presente."
+msgstr "没有修订。"
+
+msgid "Azioni di gruppo"
+msgstr "批量操作"
+
+msgid "Elimina tutte le revisioni"
+msgstr "删除所有修订"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "删除所有修订但保留最新的"
+
+msgid "Applica"
+msgstr "应用"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "未找到包含修订的帖子。"
+
+msgid "« Precedente"
+msgstr "« 上一页"
+
+msgid "Successivo »"
+msgstr "下一页 »"
+
+msgid "Post ID"
+msgstr "帖子 ID"
+
+msgid "Data Revisione"
+msgstr "修订日期"
+
+msgid "Ora Revisione"
+msgstr "修订时间"
+
+msgid "Autore Revisione"
+msgstr "修订作者"

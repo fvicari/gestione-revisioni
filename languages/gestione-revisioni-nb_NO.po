@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian Bokmål\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Revisjonsstyring"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Innstillinger for revisjonsstyring"
+
+msgid "Impostazioni"
+msgstr "Innstillinger"
+
+msgid "Impostazioni salvate."
+msgstr "Innstillinger lagret."
+
+msgid "Post per pagina"
+msgstr "Innlegg per side"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maksimalt antall revisjoner"
+
+msgid "Permessi di accesso"
+msgstr "Tilgangstillatelser"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Hold nede CTRL (Windows) eller CMD (Mac) for å velge flere roller."
+
+msgid "Salva Impostazioni"
+msgstr "Lagre innstillinger"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisjoner administrert med suksess."
+
+msgid "Cerca per titolo o ID"
+msgstr "Søk etter tittel eller ID"
+
+msgid "Cerca"
+msgstr "Søk"
+
+msgid "Titolo"
+msgstr "Tittel"
+
+msgid "Revisioni"
+msgstr "Revisjoner"
+
+msgid "Dettaglio"
+msgstr "Detalj"
+
+msgid "Ultima Revisione"
+msgstr "Siste revisjon"
+
+msgid "Azioni"
+msgstr "Handlinger"
+
+msgid "Modifica"
+msgstr "Rediger"
+
+msgid "Nessuna revisione presente."
+msgstr "Ingen revisjoner til stede."
+
+msgid "Azioni di gruppo"
+msgstr "Gruppehandlinger"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Slett alle revisjoner"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Slett alle bortsett fra siste revisjon"
+
+msgid "Applica"
+msgstr "Bruk"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Ingen innlegg funnet med revisjoner."
+
+msgid "« Precedente"
+msgstr "« Forrige"
+
+msgid "Successivo »"
+msgstr "Neste »"
+
+msgid "Post ID"
+msgstr "Innleggs-ID"
+
+msgid "Data Revisione"
+msgstr "Revisjonsdato"
+
+msgid "Ora Revisione"
+msgstr "Revisjonstid"
+
+msgid "Autore Revisione"
+msgstr "Revisjonsforfatter"

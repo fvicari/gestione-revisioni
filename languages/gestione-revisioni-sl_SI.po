@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Slovenian\n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Upravljanje revizij"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Nastavitve upravljanja revizij"
+
+msgid "Impostazioni"
+msgstr "Nastavitve"
+
+msgid "Impostazioni salvate."
+msgstr "Nastavitve shranjene."
+
+msgid "Post per pagina"
+msgstr "Objave na stran"
+
+msgid "Numero massimo di revisioni"
+msgstr "Največje število revizij"
+
+msgid "Permessi di accesso"
+msgstr "Dovoljenja za dostop"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Pritisnite in držite tipko CTRL (Windows) ali CMD (Mac) za izbiro več vlog."
+
+msgid "Salva Impostazioni"
+msgstr "Shrani nastavitve"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revizije uspešno upravljane."
+
+msgid "Cerca per titolo o ID"
+msgstr "Išči po naslovu ali ID"
+
+msgid "Cerca"
+msgstr "Išči"
+
+msgid "Titolo"
+msgstr "Naslov"
+
+msgid "Revisioni"
+msgstr "Revizije"
+
+msgid "Dettaglio"
+msgstr "Podrobnost"
+
+msgid "Ultima Revisione"
+msgstr "Zadnja revizija"
+
+msgid "Azioni"
+msgstr "Dejanja"
+
+msgid "Modifica"
+msgstr "Uredi"
+
+msgid "Nessuna revisione presente."
+msgstr "Ni prisotnih revizij."
+
+msgid "Azioni di gruppo"
+msgstr "Skupinska dejanja"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Izbriši vse revizije"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Izbriši vse razen zadnje revizije"
+
+msgid "Applica"
+msgstr "Uporabi"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Ni najdenih objav z revizijami."
+
+msgid "« Precedente"
+msgstr "« Prejšnja"
+
+msgid "Successivo »"
+msgstr "Naslednja »"
+
+msgid "Post ID"
+msgstr "ID objave"
+
+msgid "Data Revisione"
+msgstr "Datum revizije"
+
+msgid "Ora Revisione"
+msgstr "Čas revizije"
+
+msgid "Autore Revisione"
+msgstr "Avtor revizije"

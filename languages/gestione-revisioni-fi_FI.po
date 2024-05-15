@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Tarkistusten hallinta"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Tarkistusten hallinnan asetukset"
+
+msgid "Impostazioni"
+msgstr "Asetukset"
+
+msgid "Impostazioni salvate."
+msgstr "Asetukset tallennettu."
+
+msgid "Post per pagina"
+msgstr "Viestit per sivu"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maksimimäärä tarkistuksia"
+
+msgid "Permessi di accesso"
+msgstr "Käyttöoikeudet"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Pidä CTRL (Windows) tai CMD (Mac) painettuna valitaksesi useita rooleja."
+
+msgid "Salva Impostazioni"
+msgstr "Tallenna asetukset"
+
+msgid "Revisioni gestite con successo."
+msgstr "Tarkistukset hallittu onnistuneesti."
+
+msgid "Cerca per titolo o ID"
+msgstr "Etsi otsikon tai ID:n mukaan"
+
+msgid "Cerca"
+msgstr "Etsi"
+
+msgid "Titolo"
+msgstr "Otsikko"
+
+msgid "Revisioni"
+msgstr "Tarkistukset"
+
+msgid "Dettaglio"
+msgstr "Yksityiskohta"
+
+msgid "Ultima Revisione"
+msgstr "Viimeinen tarkistus"
+
+msgid "Azioni"
+msgstr "Toiminnot"
+
+msgid "Modifica"
+msgstr "Muokkaa"
+
+msgid "Nessuna revisione presente."
+msgstr "Ei tarkistuksia."
+
+msgid "Azioni di gruppo"
+msgstr "Ryhmän toimet"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Poista kaikki tarkistukset"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Poista kaikki paitsi viimeinen tarkistus"
+
+msgid "Applica"
+msgstr "Käytä"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Tarkistuksilla varustettuja viestejä ei löytynyt."
+
+msgid "« Precedente"
+msgstr "« Edellinen"
+
+msgid "Successivo »"
+msgstr "Seuraava »"
+
+msgid "Post ID"
+msgstr "Viestin ID"
+
+msgid "Data Revisione"
+msgstr "Tarkistuksen päivämäärä"
+
+msgid "Ora Revisione"
+msgstr "Tarkistuksen aika"
+
+msgid "Autore Revisione"
+msgstr "Tarkistuksen tekijä"

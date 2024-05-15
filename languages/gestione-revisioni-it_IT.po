@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: Francesco Vicari\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Gestione revisioni"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Impostazioni Gestione Revisioni"
+
+msgid "Impostazioni"
+msgstr "Impostazioni"
+
+msgid "Impostazioni salvate."
+msgstr "Impostazioni salvate."
+
+msgid "Post per pagina"
+msgstr "Post per pagina"
+
+msgid "Numero massimo di revisioni"
+msgstr "Numero massimo di revisioni"
+
+msgid "Permessi di accesso"
+msgstr "Permessi di accesso"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+
+msgid "Salva Impostazioni"
+msgstr "Salva Impostazioni"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisioni gestite con successo."
+
+msgid "Cerca per titolo o ID"
+msgstr "Cerca per titolo o ID"
+
+msgid "Cerca"
+msgstr "Cerca"
+
+msgid "Titolo"
+msgstr "Titolo"
+
+msgid "Revisioni"
+msgstr "Revisioni"
+
+msgid "Dettaglio"
+msgstr "Dettaglio"
+
+msgid "Ultima Revisione"
+msgstr "Ultima Revisione"
+
+msgid "Azioni"
+msgstr "Azioni"
+
+msgid "Modifica"
+msgstr "Modifica"
+
+msgid "Nessuna revisione presente."
+msgstr "Nessuna revisione presente."
+
+msgid "Azioni di gruppo"
+msgstr "Azioni di gruppo"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Elimina tutte le revisioni"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Elimina tutte tranne l'ultima revisione"
+
+msgid "Applica"
+msgstr "Applica"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Nessun post trovato con revisioni."
+
+msgid "« Precedente"
+msgstr "« Precedente"
+
+msgid "Successivo »"
+msgstr "Successivo »"
+
+msgid "Post ID"
+msgstr "Post ID"
+
+msgid "Data Revisione"
+msgstr "Data Revisione"
+
+msgid "Ora Revisione"
+msgstr "Ora Revisione"
+
+msgid "Autore Revisione"
+msgstr "Autore Revisione"

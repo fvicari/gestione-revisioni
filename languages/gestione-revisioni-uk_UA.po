@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Управління ревізіями"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Налаштування управління ревізіями"
+
+msgid "Impostazioni"
+msgstr "Налаштування"
+
+msgid "Impostazioni salvate."
+msgstr "Налаштування збережено."
+
+msgid "Post per pagina"
+msgstr "Пости на сторінку"
+
+msgid "Numero massimo di revisioni"
+msgstr "Максимальна кількість ревізій"
+
+msgid "Permessi di accesso"
+msgstr "Дозволи доступу"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Утримуйте клавішу CTRL (Windows) або CMD (Mac), щоб вибрати кілька ролей."
+
+msgid "Salva Impostazioni"
+msgstr "Зберегти налаштування"
+
+msgid "Revisioni gestite con successo."
+msgstr "Ревізії успішно керовані."
+
+msgid "Cerca per titolo o ID"
+msgstr "Пошук за назвою або ID"
+
+msgid "Cerca"
+msgstr "Пошук"
+
+msgid "Titolo"
+msgstr "Назва"
+
+msgid "Revisioni"
+msgstr "Ревізії"
+
+msgid "Dettaglio"
+msgstr "Деталь"
+
+msgid "Ultima Revisione"
+msgstr "Остання ревізія"
+
+msgid "Azioni"
+msgstr "Дії"
+
+msgid "Modifica"
+msgstr "Редагувати"
+
+msgid "Nessuna revisione presente."
+msgstr "Ревізій немає."
+
+msgid "Azioni di gruppo"
+msgstr "Групові дії"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Видалити всі ревізії"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Видалити всі, крім останньої ревізії"
+
+msgid "Applica"
+msgstr "Застосувати"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Пости з ревізіями не знайдено."
+
+msgid "« Precedente"
+msgstr "« Попередній"
+
+msgid "Successivo »"
+msgstr "Наступний »"
+
+msgid "Post ID"
+msgstr "ID поста"
+
+msgid "Data Revisione"
+msgstr "Дата ревізії"
+
+msgid "Ora Revisione"
+msgstr "Час ревізії"
+
+msgid "Autore Revisione"
+msgstr "Автор ревізії"

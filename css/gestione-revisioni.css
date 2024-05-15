@@ -1,0 +1,164 @@
+/* gestione-revisioni.css */
+.supporta{border: 1px solid #ccc;
+background-color: rgba(255, 230, 0, 0.08);
+padding: 1%; margin-top: 10px; text-align: center}
+.revision-list {
+    border: 1px solid #ccc;
+}
+
+.wp-list-table .revision-cell.check-column {
+    flex: 0 0 30px;
+}
+
+.wp-list-table .button-visualizza-mobile {
+    display: none;
+}
+
+.wp-list-table .visualizza-mobile {
+    display: none;
+}
+
+/* Contenitore principale */
+.revision-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.wp-list-table .revision-row {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.wp-list-table .revision-row.alternate {
+    background-color: #f9f9f9; /* Colore grigio chiaro */
+}
+
+/* Stile per le colonne */
+.wp-list-table .revision-cell {
+
+    padding: 0 5px; /* Ridotto il padding per avvicinare le colonne */
+}
+
+.wp-list-table .revision-cell.actions {
+    flex: 0 0 10%;
+    text-align: center;
+}
+
+.wp-list-table .revision-cell button.gr_toggle_revisions {
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    background-color: #66B578; /* Verde */
+    color: #fff;
+    border: none;
+}
+
+.wp-list-table .revision-cell a.button-visualizza-mobile {
+    display: none;
+}
+
+.wp-list-table .revision-detail {
+    display: none;
+    flex-direction: column;
+    border-top: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.wp-list-table .revision-detail-row {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    background-color: rgba(255, 230, 0, 0.18);
+}
+
+   .wp-list-table .button-visualizza-mobile::before {
+        content: "\f464"; /* Icona per il pulsante */
+        font-family: 'dashicons';
+        font-size: 16px;
+    }
+
+    .wp-list-table .gr_toggle_revisions::before {
+        content: "\f177"; /* Icona per il pulsante */
+        font-family: 'dashicons';
+        font-size: 16px;
+    }
+/* Paginazione */
+.tablenav .tablenav-pages {
+    margin: 1em 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tablenav .tablenav-pages .pagination-links {
+    display: inline-block;
+    margin: 0 2px;
+}
+
+
+/* Ottimizzazione per mobile a 760px */
+@media screen and (max-width: 760px) {
+    .wp-list-table .button-visualizza {
+        display: none;
+    }
+    .wp-list-table .ultima-revisione {
+        display: none;
+    }
+    .wp-list-table .button-visualizza-mobile {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        background: #dc3545; /* Rosso */
+        color: #fff;
+        border: none;
+        border-radius: 3px;
+        text-decoration: none;
+    }
+    .wp-list-table .button-visualizza-mobile::before {
+        content: "\f463"; /* Icona per il pulsante */
+        font-family: 'dashicons';
+        font-size: 15px;
+    }
+
+    .wp-list-table .revision-cell button.gr_toggle_revisions {
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        border-radius: 3px;
+        font-size: 15px;
+        background-color: #66B578; /* Verde */
+    }
+
+    .wp-list-table .revision-cell a.button-visualizza-mobile {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        background: #C95661; /* Rosso */
+        color: #fff;
+        border: none;
+        border-radius: 3px;
+        text-decoration: none;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .wp-list-table .revision-cell a.button-visualizza-mobile::before {
+        content: "\f463"; /* Icona per il pulsante */
+        font-family: 'dashicons';
+        font-size: 16px;
+    }
+}
+
+
+
+

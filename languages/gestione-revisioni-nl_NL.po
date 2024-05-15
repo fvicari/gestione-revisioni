@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Revisiebeheer"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Instellingen voor revisiebeheer"
+
+msgid "Impostazioni"
+msgstr "Instellingen"
+
+msgid "Impostazioni salvate."
+msgstr "Instellingen opgeslagen."
+
+msgid "Post per pagina"
+msgstr "Berichten per pagina"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maximaal aantal revisies"
+
+msgid "Permessi di accesso"
+msgstr "Toegangsrechten"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Houd de CTRL-toets (Windows) of CMD-toets (Mac) ingedrukt om meerdere rollen te selecteren."
+
+msgid "Salva Impostazioni"
+msgstr "Instellingen opslaan"
+
+msgid "Revisioni gestite con successo."
+msgstr "Revisies succesvol beheerd."
+
+msgid "Cerca per titolo o ID"
+msgstr "Zoek op titel of ID"
+
+msgid "Cerca"
+msgstr "Zoeken"
+
+msgid "Titolo"
+msgstr "Titel"
+
+msgid "Revisioni"
+msgstr "Revisies"
+
+msgid "Dettaglio"
+msgstr "Detail"
+
+msgid "Ultima Revisione"
+msgstr "Laatste revisie"
+
+msgid "Azioni"
+msgstr "Acties"
+
+msgid "Modifica"
+msgstr "Bewerken"
+
+msgid "Nessuna revisione presente."
+msgstr "Geen revisies aanwezig."
+
+msgid "Azioni di gruppo"
+msgstr "Groepsacties"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Verwijder alle revisies"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Verwijder alle revisies behalve de laatste"
+
+msgid "Applica"
+msgstr "Toepassen"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Geen berichten gevonden met revisies."
+
+msgid "« Precedente"
+msgstr "« Vorige"
+
+msgid "Successivo »"
+msgstr "Volgende »"
+
+msgid "Post ID"
+msgstr "Bericht ID"
+
+msgid "Data Revisione"
+msgstr "Revisiedatum"
+
+msgid "Ora Revisione"
+msgstr "Revisietijd"
+
+msgid "Autore Revisione"
+msgstr "Revisie-auteur"

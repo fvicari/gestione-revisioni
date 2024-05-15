@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Διαχείριση αναθεωρήσεων"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Ρυθμίσεις διαχείρισης αναθεωρήσεων"
+
+msgid "Impostazioni"
+msgstr "Ρυθμίσεις"
+
+msgid "Impostazioni salvate."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+msgid "Post per pagina"
+msgstr "Δημοσιεύσεις ανά σελίδα"
+
+msgid "Numero massimo di revisioni"
+msgstr "Μέγιστος αριθμός αναθεωρήσεων"
+
+msgid "Permessi di accesso"
+msgstr "Δικαιώματα πρόσβασης"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Κρατήστε πατημένο το πλήκτρο CTRL (Windows) ή CMD (Mac) για να επιλέξετε πολλαπλούς ρόλους."
+
+msgid "Salva Impostazioni"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+msgid "Revisioni gestite con successo."
+msgstr "Οι αναθεωρήσεις διαχειρίστηκαν με επιτυχία."
+
+msgid "Cerca per titolo o ID"
+msgstr "Αναζήτηση ανά τίτλο ή ID"
+
+msgid "Cerca"
+msgstr "Αναζήτηση"
+
+msgid "Titolo"
+msgstr "Τίτλος"
+
+msgid "Revisioni"
+msgstr "Αναθεωρήσεις"
+
+msgid "Dettaglio"
+msgstr "Λεπτομέρειες"
+
+msgid "Ultima Revisione"
+msgstr "Τελευταία αναθεώρηση"
+
+msgid "Azioni"
+msgstr "Ενέργειες"
+
+msgid "Modifica"
+msgstr "Επεξεργασία"
+
+msgid "Nessuna revisione presente."
+msgstr "Δεν υπάρχουν αναθεωρήσεις."
+
+msgid "Azioni di gruppo"
+msgstr "Ομαδικές ενέργειες"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Διαγραφή όλων των αναθεωρήσεων"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Διαγραφή όλων εκτός από την τελευταία αναθεώρηση"
+
+msgid "Applica"
+msgstr "Εφαρμογή"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Δεν βρέθηκαν δημοσιεύσεις με αναθεωρήσεις."
+
+msgid "« Precedente"
+msgstr "« Προηγούμενο"
+
+msgid "Successivo »"
+msgstr "Επόμενο »"
+
+msgid "Post ID"
+msgstr "ID δημοσίευσης"
+
+msgid "Data Revisione"
+msgstr "Ημερομηνία αναθεώρησης"
+
+msgid "Ora Revisione"
+msgstr "Ώρα αναθεώρησης"
+
+msgid "Autore Revisione"
+msgstr "Συγγραφέας αναθεώρησης"

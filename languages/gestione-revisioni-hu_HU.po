@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gestione revisioni 1.8\n"
+"POT-Creation-Date: 2024-05-15 12:00+0000\n"
+"PO-Revision-Date: 2024-05-15 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Gestione revisioni"
+msgstr "Felülvizsgálatok kezelése"
+
+msgid "Impostazioni Gestione Revisioni"
+msgstr "Felülvizsgálatkezelési beállítások"
+
+msgid "Impostazioni"
+msgstr "Beállítások"
+
+msgid "Impostazioni salvate."
+msgstr "Beállítások mentve."
+
+msgid "Post per pagina"
+msgstr "Bejegyzések oldalanként"
+
+msgid "Numero massimo di revisioni"
+msgstr "Maximális felülvizsgálatok száma"
+
+msgid "Permessi di accesso"
+msgstr "Hozzáférési engedélyek"
+
+msgid "Tieni premuto il tasto CTRL (Windows) o CMD (Mac) per selezionare più ruoli."
+msgstr "Tartsa lenyomva a CTRL (Windows) vagy CMD (Mac) gombot több szerep kiválasztásához."
+
+msgid "Salva Impostazioni"
+msgstr "Beállítások mentése"
+
+msgid "Revisioni gestite con successo."
+msgstr "Felülvizsgálatok sikeresen kezelve."
+
+msgid "Cerca per titolo o ID"
+msgstr "Keresés cím vagy azonosító alapján"
+
+msgid "Cerca"
+msgstr "Keresés"
+
+msgid "Titolo"
+msgstr "Cím"
+
+msgid "Revisioni"
+msgstr "Felülvizsgálatok"
+
+msgid "Dettaglio"
+msgstr "Részlet"
+
+msgid "Ultima Revisione"
+msgstr "Utolsó felülvizsgálat"
+
+msgid "Azioni"
+msgstr "Műveletek"
+
+msgid "Modifica"
+msgstr "Szerkesztés"
+
+msgid "Nessuna revisione presente."
+msgstr "Nincs felülvizsgálat."
+
+msgid "Azioni di gruppo"
+msgstr "Csoportos műveletek"
+
+msgid "Elimina tutte le revisioni"
+msgstr "Összes felülvizsgálat törlése"
+
+msgid "Elimina tutte tranne l'ultima revisione"
+msgstr "Összes felülvizsgálat törlése, kivéve az utolsót"
+
+msgid "Applica"
+msgstr "Alkalmaz"
+
+msgid "Nessun post trovato con revisioni."
+msgstr "Nem található bejegyzés felülvizsgálattal."
+
+msgid "« Precedente"
+msgstr "« Előző"
+
+msgid "Successivo »"
+msgstr "Következő »"
+
+msgid "Post ID"
+msgstr "Bejegyzés azonosító"
+
+msgid "Data Revisione"
+msgstr "Felülvizsgálat dátuma"
+
+msgid "Ora Revisione"
+msgstr "Felülvizsgálat ideje"
+
+msgid "Autore Revisione"
+msgstr "Felülvizsgála"
