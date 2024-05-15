@@ -78,4 +78,3 @@
      $max_revisions = get_option('gr_max_revisions', 10);
      return $max_revisions;
  }
- ?> 
