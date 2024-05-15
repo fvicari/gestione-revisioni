@@ -1,7 +1,7 @@
 # Gestione revisioni
 
 **Contributors:** Francesco Vicari  
-**Donate link:** [Donate]([https://www.magazzinovirtuale.com/donate](https://www.paypal.com/donate?token=P9WOW5wHPpqfwgJM-SD7JUvP8Y6N6HbmMmWv1ZgAw8wVuq5iasePdsLnYClnP_TmkxPHr8gUt0MFkiqQ))  
+**Donate link:** [Donate](https://www.paypal.com/donate?token=P9WOW5wHPpqfwgJM-SD7JUvP8Y6N6HbmMmWv1ZgAw8wVuq5iasePdsLnYClnP_TmkxPHr8gUt0MFkiqQ)  
 **Tags:** revisions, management, delete revisions, post revisions  
 **Requires at least:** 5.0  
 **Tested up to:** 6.2  
