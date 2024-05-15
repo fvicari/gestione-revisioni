@@ -23,4 +23,3 @@ function gr_settings_page_content() {
 
     include plugin_dir_path(__FILE__) . 'templates/settings-template.php';
 }
-?>
