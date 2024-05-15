@@ -8,7 +8,7 @@
                     <label for="gr_posts_per_page"><?php esc_html_e('Post per pagina', 'gestione-revisioni'); ?></label>
                 </th>
                 <td>
-                    <input name="gr_posts_per_page" type="number" id="gr_posts_per_page" value="<?= esc_attr($posts_per_page); ?>" class="small-text">
+                    <input name="gr_posts_per_page" type="number" id="gr_posts_per_page" value="<?php echo esc_attr($posts_per_page); ?>" class="small-text">
                 </td>
             </tr>
             <tr>
@@ -16,7 +16,7 @@
                     <label for="gr_max_revisions"><?php esc_html_e('Numero massimo di revisioni', 'gestione-revisioni'); ?></label>
                 </th>
                 <td>
-                    <input name="gr_max_revisions" type="number" id="gr_max_revisions" value="<?= esc_attr($max_revisions); ?>" class="small-text">
+                    <input name="gr_max_revisions" type="number" id="gr_max_revisions" value="<?php echo esc_attr($max_revisions); ?>" class="small-text">
                 </td>
             </tr>
             <tr>
@@ -28,8 +28,8 @@
                         <?php foreach ($roles as $role_name => $role_info) :
                             $selected = in_array($role_name, $permissions); ?>
 
-                            <option value="<?= esc_attr($role_name) ?>" <?php selected($selected); ?>>
-                                <?= esc_html($role_info['name']) ?>
+                            <option value="<?php echo esc_attr($role_name) ?>" <?php selected($selected); ?>>
+                                <?php echo esc_html($role_info['name']) ?>
                             </option>
                         <?php endforeach ?>
                     </select>

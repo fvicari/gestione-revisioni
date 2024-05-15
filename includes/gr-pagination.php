@@ -15,7 +15,7 @@ function gr_generate_pagination($total_pages, $paged) {
         <div class="tablenav">
             <div class="tablenav-pages">
                 <?php foreach ($pagination_links as $link) : ?>
-                    <span class="pagination-links"><?= wp_kses_post($link) ?></span>
+                    <span class="pagination-links"><?php echo wp_kses_post($link) ?></span>
                 <?php endforeach ?>
             </div>
         </div>

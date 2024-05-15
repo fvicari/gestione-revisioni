@@ -2,7 +2,7 @@
     <h1><?php esc_html_e('Gestione revisioni', 'gestione-revisioni'); ?></h1>
     <form method="get" style="margin-bottom: 20px;">
         <input type="hidden" name="page" value="gestione-revisioni">
-        <input type="text" name="s" value="<?= esc_attr($search_query) ?>" placeholder="<?php esc_attr_e('Cerca per titolo o ID', 'gestione-revisioni') ?>">
+        <input type="text" name="s" value="<?php echo esc_attr($search_query) ?>" placeholder="<?php esc_attr_e('Cerca per titolo o ID', 'gestione-revisioni') ?>">
         <input type="submit" class="button" value="<?php esc_attr_e('Cerca', 'gestione-revisioni'); ?>">
     </form>
 
@@ -34,15 +34,15 @@
                             $row_class = $row_count % 2 == 0 ? 'alternate' : '';
                             $row_count++; ?>
 
-                            <div class="revision-row <?= esc_attr($row_class); ?>">
-                                <div class="revision-cell check-column"><input type="checkbox" name="post_ids[]" value="<?= esc_attr($post_id); ?>"></div>
-                                <div class="revision-cell"><?= esc_html(get_the_title($post)); ?></div>
-                                <div class="revision-cell"><?= esc_html($revision_count); ?></div>
-                                <div class="revision-cell"><button type="button" class="button gr_toggle_revisions" data-post-id="<?= esc_attr($post_id); ?>"></button></div>
-                                <div class="revision-cell ultima-revisione visualizza-mobile"><?= esc_html($last_revision_date); ?></div>
+                            <div class="revision-row <?php echo esc_attr($row_class); ?>">
+                                <div class="revision-cell check-column"><input type="checkbox" name="post_ids[]" value="<?php echo esc_attr($post_id); ?>"></div>
+                                <div class="revision-cell"><?php echo esc_html(get_the_title($post)); ?></div>
+                                <div class="revision-cell"><?php echo esc_html($revision_count); ?></div>
+                                <div class="revision-cell"><button type="button" class="button gr_toggle_revisions" data-post-id="<?php echo esc_attr($post_id); ?>"></button></div>
+                                <div class="revision-cell ultima-revisione visualizza-mobile"><?php echo esc_html($last_revision_date); ?></div>
                                 <div class="revision-cell actions">
-                                    <a href="<?= esc_url(get_edit_post_link($post_id)); ?>" class="button button-visualizza"><?php esc_html_e('Modifica', 'gestione-revisioni'); ?></a>
-                                    <a href="<?= esc_url(get_edit_post_link($post_id)); ?>" class="button button-visualizza-mobile"></a>
+                                    <a href="<?php echo esc_url(get_edit_post_link($post_id)); ?>" class="button button-visualizza"><?php esc_html_e('Modifica', 'gestione-revisioni'); ?></a>
+                                    <a href="<?php echo esc_url(get_edit_post_link($post_id)); ?>" class="button button-visualizza-mobile"></a>
                                 </div>
                             </div>
 
@@ -53,10 +53,10 @@
                                     $revision_author = get_the_author_meta('display_name', $revision->post_author); ?>
 
                                     <div class="revision-detail-row">
-                                        <div class="revision-cell"><?php esc_html_e('Post ID', 'gestione-revisioni'); ?>: <?= esc_html($post_id); ?></div>
-                                        <div class="revision-cell"><?php esc_html_e('Data Revisione', 'gestione-revisioni'); ?>: <?= esc_html($revision_date); ?></div>
-                                        <div class="revision-cell"><?php esc_html_e('Ora Revisione', 'gestione-revisioni'); ?>: <?= esc_html($revision_time); ?></div>
-                                        <div class="revision-cell"><?php esc_html_e('Autore Revisione', 'gestione-revisioni'); ?>: <?= esc_html($revision_author); ?></div>
+                                        <div class="revision-cell"><?php esc_html_e('Post ID', 'gestione-revisioni'); ?>: <?php echo esc_html($post_id); ?></div>
+                                        <div class="revision-cell"><?php esc_html_e('Data Revisione', 'gestione-revisioni'); ?>: <?php echo esc_html($revision_date); ?></div>
+                                        <div class="revision-cell"><?php esc_html_e('Ora Revisione', 'gestione-revisioni'); ?>: <?php echo esc_html($revision_time); ?></div>
+                                        <div class="revision-cell"><?php esc_html_e('Autore Revisione', 'gestione-revisioni'); ?>: <?php echo esc_html($revision_author); ?></div>
                                     </div>
                                 <?php endforeach; ?>
                             </div>
@@ -81,7 +81,7 @@
             <?php endif; ?>
         </form>
 
-        
+
         <?php if ($total_posts_with_revisions > $posts_per_page) {
             // Paginazione
             gr_generate_pagination($total_pages, $paged);
@@ -95,9 +95,9 @@
     <!-- Credits e versione del plugin -->
     <div class="gr-credits">
         <p>
-            <strong>V <?= esc_html(GR_VERSION); ?></strong> Credits: JGV -
+            <strong>V <?php echo esc_html(GR_VERSION); ?></strong> Credits: JGV -
             <a href="https://www.magazzinovirtuale.com" target="_blank">
-                <img src="<?= esc_url(plugin_dir_url(__FILE__) . 'img/mv.png'); ?>" alt="Magazzino Virtuale" />
+                <img src="<?php echo esc_url(plugin_dir_url(__FILE__) . 'img/mv.png'); ?>" alt="Magazzino Virtuale" />
                 Magazzino Virtuale
             </a>
         </p>
