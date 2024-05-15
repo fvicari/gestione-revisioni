@@ -21,7 +21,6 @@
                     </div>
 
                     <?php
-                    $row_count = 0;
                     $found_revisions = false;
                     foreach ($post_ids_with_revisions as $post_id) :
                         $post = get_post($post_id);
@@ -30,11 +29,9 @@
                         if ($revision_count > 0) :
                             $found_revisions = true;
                             $last_revision = reset($revisions);
-                            $last_revision_date = $last_revision->post_date;
-                            $row_class = $row_count % 2 == 0 ? 'alternate' : '';
-                            $row_count++; ?>
+                            $last_revision_date = $last_revision->post_date; ?>
 
-                            <div class="revision-row <?php echo esc_attr($row_class); ?>">
+                            <div class="revision-row">
                                 <div class="revision-cell check-column"><input type="checkbox" name="post_ids[]" value="<?php echo esc_attr($post_id); ?>"></div>
                                 <div class="revision-cell"><?php echo esc_html(get_the_title($post)); ?></div>
                                 <div class="revision-cell"><?php echo esc_html($revision_count); ?></div>
@@ -80,7 +77,6 @@
                 </div>
             <?php endif; ?>
         </form>
-
 
         <?php if ($total_posts_with_revisions > $posts_per_page) {
             // Paginazione

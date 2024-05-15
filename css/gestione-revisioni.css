@@ -32,10 +32,11 @@
     align-items: center;
     border-bottom: 1px solid #ccc;
     padding: 10px 0;
+    background-color: #f9f9f9;
 }
 
-.wp-list-table .revision-row.alternate {
-    background-color: #f9f9f9; /* Colore grigio chiaro */
+.wp-list-table .revision-row:nth-child(4n + 2) {
+    background-color: initial;
 }
 
 /* Stile per le colonne */
