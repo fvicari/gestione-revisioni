@@ -1,15 +1,17 @@
-document.getElementById("gr_select_all").addEventListener("change", function(e) {
-    var checkboxes = document.querySelectorAll('input[name="post_ids[]"]');
-    for (var i = 0; i < checkboxes.length; i++) {
-        checkboxes[i].checked = this.checked;
+const selectAll = document.getElementById("gr_select_all");
+selectAll.addEventListener("change", function() {
+    const checkboxes = document.querySelectorAll('input[name="post_ids[]"]');
+    for (const checkbox of checkboxes) {
+        checkbox.checked = this.checked;
     }
 });
 
-document.querySelectorAll(".gr_toggle_revisions").forEach(function(button) {
+const buttons = document.querySelectorAll(".gr_toggle_revisions");
+for (const button of buttons) {
     button.addEventListener("click", function(e) {
         e.preventDefault();
-        var postId = this.getAttribute("data-post-id");
-        var detailRow = document.getElementById("gr_revisions_" + postId);
-        detailRow.style.display = (detailRow.style.display === "none" || detailRow.style.display === "") ? "flex" : "none";
+        const postId = this.getAttribute("data-post-id");
+        const detailRow = document.getElementById("gr_revisions_" + postId);
+        detailRow.classList.toggle('visible');
     });
-});
+}

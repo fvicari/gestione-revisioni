@@ -44,7 +44,7 @@
          return;
      }
      wp_enqueue_style('gestione-revisioni', plugin_dir_url(__FILE__) . 'css/gestione-revisioni.css');
-     wp_enqueue_script('gestione-revisioni', plugin_dir_url(__FILE__) . 'js/gestione-revisioni.js', array('jquery'), '1.0', true);
+     wp_enqueue_script('gestione-revisioni', plugin_dir_url(__FILE__) . 'js/gestione-revisioni.js', array(), '1.0', true);
  }
  
  function gr_load_textdomain() {
@@ -78,4 +78,3 @@
      $max_revisions = get_option('gr_max_revisions', 10);
      return $max_revisions;
  }
- ?> 

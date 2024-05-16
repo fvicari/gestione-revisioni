@@ -13,18 +13,17 @@ function gr_menu_page_content() {
 
         foreach ($post_ids as $post_id) {
             $revisions = wp_get_post_revisions($post_id);
-            if ($action == 'delete_all') {
-                foreach ($revisions as $revision) {
-                    wp_delete_post($revision->ID, true);
-                }
-            } elseif ($action == 'delete_all_except_last') {
-                $first_revision = array_shift($revisions);
-                foreach ($revisions as $revision) {
-                    wp_delete_post($revision->ID, true);
-                }
-                if ($first_revision) {
-                    wp_restore_post_revision($first_revision->ID);
-                }
+            switch ($action) {
+                case 'delete_all_except_last':
+                    $first_revision = array_shift($revisions);
+                    if ($first_revision) {
+                        wp_restore_post_revision($first_revision->ID);
+                    }
+                case 'delete_all':
+                    foreach ($revisions as $revision) {
+                        wp_delete_post($revision->ID, true);
+                    }
+                    break;
             }
         }
 
@@ -32,7 +31,7 @@ function gr_menu_page_content() {
     }
 
     // Search filter
-    $search_query = isset($_GET['s']) ? sanitize_text_field($_GET['s']) : '';
+    $search_query = sanitize_text_field($_GET['s'] ?? '');
 
     // Get all public post types
     $post_types = get_post_types(['public' => true]);
@@ -43,7 +42,7 @@ function gr_menu_page_content() {
     // Get posts and their revisions
     $posts_per_page = get_option('gr_posts_per_page', 50);
 
-    $paged = isset($_GET['paged']) ? absint($_GET['paged']) : 1;
+    $paged = absint($_GET['paged'] ?? 1);
     $offset = ($paged - 1) * $posts_per_page;
 
     // Build the SQL query to filter posts based on the search
@@ -90,4 +89,3 @@ function gr_menu_page_content() {
 
     include plugin_dir_path(__FILE__) . 'templates/menu-template.php';
 }
-?>
