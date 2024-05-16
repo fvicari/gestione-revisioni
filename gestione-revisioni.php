@@ -9,7 +9,7 @@
  * Domain Path: /languages
  */
 
- define('GR_VERSION', '1.8');
+ define('GR_VERSION', '1.9');
 
  // Evita l'accesso diretto al file
  if (!defined('ABSPATH')) {

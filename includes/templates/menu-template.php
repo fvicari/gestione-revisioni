@@ -91,8 +91,7 @@
     <!-- Credits e versione del plugin -->
     <div class="gr-credits">
         <p>
-            <strong>V <?php echo esc_html(GR_VERSION); ?></strong> Credits: JGV -
-            <a href="https://www.magazzinovirtuale.com" target="_blank">
+            <strong>V <?php echo esc_html(GR_VERSION); ?></strong> Credits:  <a href="https://www.magazzinovirtuale.com" target="_blank">JGV</a> //\\ <a href="https://github.com/fvicari/" target="_blank">FV</a> //\\  <a href="https://github.com/moublini" target="_blank">Moublini</a> //\\ <a href="https://www.magazzinovirtuale.com" target="_blank">
                 <img src="<?php echo esc_url(plugin_dir_url(__FILE__) . 'img/mv.png'); ?>" alt="Magazzino Virtuale" />
                 Magazzino Virtuale
             </a>
