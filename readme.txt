@@ -3,9 +3,9 @@ Contributors: Francesco Vicari
 Donate link: https://www.magazzinovirtuale.com/donate
 Tags: revisions, management, delete revisions, post revisions
 Requires at least: 5.0
-Tested up to: 6.2
+Tested up to: 6.6
 Requires PHP: 7.2
-Stable tag: 1.8
+Stable tag: 1.9.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ Sì, il plugin supporta diverse lingue. Puoi contribuire con le traduzioni trami
 
 == Changelog ==
 
+= 1.9.1 =
+* Bugfix e ottimizzazioni varie.
+
 = 1.8 =
 * Aggiunta la gestione delle lingue.
 * Miglioramenti all'interfaccia utente.
@@ -56,13 +59,9 @@ Sì, il plugin supporta diverse lingue. Puoi contribuire con le traduzioni trami
 
 == Upgrade Notice ==
 
-= 1.8 =
+= 1.9.1 =
 Assicurati di eseguire il backup del tuo database prima di aggiornare il plugin per evitare la perdita di dati.
 
 == Credits ==
 
 Grazie a tutti i contributori e i traduttori che hanno aiutato a migliorare questo plugin.
-
-== License ==
-
-Questo plugin è distribuito sotto la licenza GPLv2 o successiva.

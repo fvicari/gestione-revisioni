@@ -54,7 +54,7 @@
     text-align: center;
 }
 
-.wp-list-table .revision-cell .gr_toggle_revisions {
+.wp-list-table .revision-cell .gestrev_toggle_revisions {
     width: 30px;
     aspect-ratio: 1;
     padding: 0;
@@ -101,7 +101,7 @@
     font-size: 1rem;
 }
 
-.wp-list-table .gr_toggle_revisions::before {
+.wp-list-table .gestrev_toggle_revisions::before {
     content: "\f177"; /* Icona per il pulsante */
     font-family: "dashicons";
     font-size: 1rem;
@@ -133,13 +133,13 @@
         display: none;
     }
 
-    .wp-list-table .revision-cell .gr_toggle_revisions,
+    .wp-list-table .revision-cell .gestrev_toggle_revisions,
     .wp-list-table .revision-cell .button-visualizza-mobile {
         border-radius: 3px;
         width: 40px;
     }
 
-    .wp-list-table .revision-cell .gr_toggle_revisions {
+    .wp-list-table .revision-cell .gestrev_toggle_revisions {
         text-align: center;
         font-size: 16px;
         background-color: #66b578; /* Verde */

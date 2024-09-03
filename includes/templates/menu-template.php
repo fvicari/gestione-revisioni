@@ -1,3 +1,8 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly
+}
+?>
 <div class="wrap">
     <h1><?php esc_html_e('Gestione revisioni', 'gestione-revisioni'); ?></h1>
     <form method="get" style="margin-bottom: 20px;">
@@ -8,11 +13,11 @@
 
     <?php if (!empty($post_ids_with_revisions)) : ?>
         <form method="post">
-            <?php wp_nonce_field('gr_bulk_action_verify'); ?>
+            <?php wp_nonce_field('gestrev_bulk_action_verify'); ?>
             <div class="wp-list-table widefat fixed striped table-view-list posts revision-list">
                 <div class="revision-container">
                     <div class="revision-row header">
-                        <div class="revision-cell check-column"><input type="checkbox" id="gr_select_all"></div>
+                        <div class="revision-cell check-column"><input type="checkbox" id="gestrev_select_all"></div>
                         <div class="revision-cell"><?php esc_html_e('Titolo', 'gestione-revisioni'); ?></div>
                         <div class="revision-cell"><?php esc_html_e('Revisioni', 'gestione-revisioni'); ?></div>
                         <div class="revision-cell"><?php esc_html_e('Dettaglio', 'gestione-revisioni'); ?></div>
@@ -35,7 +40,7 @@
                                 <div class="revision-cell check-column"><input type="checkbox" name="post_ids[]" value="<?php echo esc_attr($post_id); ?>"></div>
                                 <div class="revision-cell"><?php echo esc_html(get_the_title($post)); ?></div>
                                 <div class="revision-cell"><?php echo esc_html($revision_count); ?></div>
-                                <div class="revision-cell"><button type="button" class="button gr_toggle_revisions" data-post-id="<?php echo esc_attr($post_id); ?>"></button></div>
+                                <div class="revision-cell"><button type="button" class="button gestrev_toggle_revisions" data-post-id="<?php echo esc_attr($post_id); ?>"></button></div>
                                 <div class="revision-cell ultima-revisione visualizza-mobile"><?php echo esc_html($last_revision_date); ?></div>
                                 <div class="revision-cell actions">
                                     <a href="<?php echo esc_url(get_edit_post_link($post_id)); ?>" class="button button-visualizza"><?php esc_html_e('Modifica', 'gestione-revisioni'); ?></a>
@@ -43,7 +48,7 @@
                                 </div>
                             </div>
 
-                            <div class="revision-detail" id="gr_revisions_<?php esc_attr_e($post_id); ?>">
+                            <div class="revision-detail" id="gestrev_revisions_<?php echo esc_attr($post_id); ?>">
                                 <?php foreach ($revisions as $revision) :
                                     $revision_date = gmdate('Y-m-d', strtotime($revision->post_date));
                                     $revision_time = gmdate('H:i:s', strtotime($revision->post_date));
@@ -67,7 +72,7 @@
             <?php elseif (current_user_can('edit_others_posts')) : ?>
                 <div class="tablenav bottom">
                     <div class="alignleft actions bulkactions">
-                        <select name="gr_bulk_action">
+                        <select name="gestrev_bulk_action">
                             <option value=""><?php esc_html_e('Azioni di gruppo', 'gestione-revisioni'); ?></option>
                             <option value="delete_all"><?php esc_html_e('Elimina tutte le revisioni', 'gestione-revisioni'); ?></option>
                             <option value="delete_all_except_last"><?php esc_html_e('Elimina tutte tranne l\'ultima revisione', 'gestione-revisioni'); ?></option>
@@ -80,7 +85,7 @@
 
         <?php if ($total_posts_with_revisions > $posts_per_page) {
             // Paginazione
-            gr_generate_pagination($total_pages, $paged);
+            gestrev_generate_pagination($total_pages, $paged);
         }
 
         wp_reset_postdata(); ?>
@@ -91,8 +96,8 @@
     <!-- Credits e versione del plugin -->
     <div class="gr-credits">
         <p>
-            <strong>V <?php echo esc_html(GR_VERSION); ?></strong> Credits:  <a href="https://www.magazzinovirtuale.com" target="_blank">JGV</a> //\\ <a href="https://github.com/fvicari/" target="_blank">FV</a> //\\  <a href="https://github.com/moublini" target="_blank">Moublini</a> //\\ <a href="https://www.magazzinovirtuale.com" target="_blank">
-                <img src="<?php echo esc_url(plugin_dir_url(__FILE__) . 'img/mv.png'); ?>" alt="Magazzino Virtuale" />
+            <strong>V <?php echo esc_html(GESTREV_VERSION); ?></strong> Credits:  <a href="https://www.magazzinovirtuale.com" target="_blank">JGV</a> //\\ <a href="https://github.com/fvicari/" target="_blank">FV</a> //\\  <a href="https://github.com/moublini" target="_blank">Moublini</a> //\\ <a href="https://www.magazzinovirtuale.com" target="_blank">
+                <img src="<?php echo esc_url(plugin_dir_url(__FILE__) . 'assets/images/mv.png'); ?>" alt="Magazzino Virtuale" />
                 Magazzino Virtuale
             </a>
         </p>
@@ -101,8 +106,8 @@
         <h3>Supporta lo sviluppo Fai una donazione via PayPal</h3>
         <form action="https://www.paypal.com/donate" method="post" target="_top">
             <input type="hidden" name="hosted_button_id" value="76MAU39GPQE2Q" />
-            <input type="image" src="https://pics.paypal.com/00/s/Y2JjNWMzYWMtMGFjNC00ZThkLWE3N2UtNDZjMDk1OWRkYzU4/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-            <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
+            <input type="image" src="<?php echo plugin_dir_url(__FILE__); ?>/assets/images/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="<?php echo plugin_dir_url(__FILE__); ?>/assets/images/pixel.gif" width="1" height="1" />
         </form>
     </div>
 </div>

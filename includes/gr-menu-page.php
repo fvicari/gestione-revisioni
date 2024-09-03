@@ -1,14 +1,17 @@
 <?php
-function gr_menu_page_content() {
-    $permissions = get_option('gr_permissions', array('administrator', 'editor'));
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly
+}
+function gestrev_menu_page_content() {
+    $permissions = get_option('gestrev_permissions', array('administrator', 'editor'));
 
     if (!array_intersect($permissions, wp_get_current_user()->roles)) {
         return;
     }
 
     // Verify and delete revisions
-    if (isset($_POST['gr_bulk_action']) && isset($_POST['post_ids']) && check_admin_referer('gr_bulk_action_verify')) {
-        $action = sanitize_text_field($_POST['gr_bulk_action']);
+    if (isset($_POST['gestrev_bulk_action']) && isset($_POST['post_ids']) && check_admin_referer('gestrev_bulk_action_verify')) {
+        $action = sanitize_text_field($_POST['gestrev_bulk_action']);
         $post_ids = array_map('absint', $_POST['post_ids']);
 
         foreach ($post_ids as $post_id) {
@@ -40,7 +43,7 @@ function gr_menu_page_content() {
     $placeholders = implode(',', array_fill(0, count($post_types), '%s'));
 
     // Get posts and their revisions
-    $posts_per_page = get_option('gr_posts_per_page', 50);
+    $posts_per_page = get_option('gestrev_posts_per_page', 50);
 
     $paged = absint($_GET['paged'] ?? 1);
     $offset = ($paged - 1) * $posts_per_page;
