@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Gestione Revisioni
- * Plugin URI: https://www.magazzinovirtuale.com/
+ * Plugin URI: https://www.magazzinovirtuale.com/gestione-revisioni/
  * Description: Verifica il numero di revisioni dei post e permette di gestirle ed eliminarle.
  * Version: 1.9.1
  * Author: Francesco Vicari
