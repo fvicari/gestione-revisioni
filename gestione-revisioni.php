@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Gestione revisioni
  * Description: Verifica il numero di revisioni dei post e permette di gestirle ed eliminarle.
- * Version: 1.8
+ * Version: 1.9
  * Author: Francesco Vicari
  * Author URI: https://www.magazzinovirtuale.com
  * Text Domain: gestione-revisioni
